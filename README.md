@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/TEGUS/Dashing/badge.svg?branch=master)](https://coveralls.io/github/TEGUS/Dashing?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/TEGUS/Dashing/badge.svg?branch=feat%2Fci-coveralls)](https://coveralls.io/github/TEGUS/Dashing?branch=feat%2Fci-coveralls)
 [![Build Status](https://travis-ci.org/TEGUS/Dashing.svg?branch=master)](https://travis-ci.org/TEGUS/Dashing)
 
 # Dashing
