@@ -11,7 +11,6 @@
     "test:cover": "rm -rf ./coverage && ng test --no-watch --code-coverage",
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
     "build:gh-pages:demo:1": "ng build --prod --output-path=gh-pages/demo1/ --base-href=/dashing/demo1/"
-    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "private": true,
   "dependencies": {
