@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0039fa8128504903877720fc74f90960)](https://app.codacy.com/app/TEGUS/Dashing?utm_source=github.com&utm_medium=referral&utm_content=TEGUS/Dashing&utm_campaign=Badge_Grade_Settings)
 [![Coverage Status](https://coveralls.io/repos/github/TEGUS/Dashing/badge.svg?branch=feat%2Fci-coveralls)](https://coveralls.io/github/TEGUS/Dashing?branch=feat%2Fci-coveralls)
 [![Build Status](https://travis-ci.org/TEGUS/Dashing.svg?branch=master)](https://travis-ci.org/TEGUS/Dashing)
 
